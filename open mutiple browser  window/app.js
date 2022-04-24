@@ -8,7 +8,8 @@
 // @match        https://www.github.com
 // @match        https://piyush.sachan.me
 // @grant        none
-// @resource     bootstrapCSS https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css
+// @resource     none
+// @icon         none
 // ==/UserScript==
 
 (function() {
