@@ -1,1 +1,3 @@
-# tapermonkey, eacho directory contains single project
+# Tapermonkey script
+
+-- Each directory contains single project
